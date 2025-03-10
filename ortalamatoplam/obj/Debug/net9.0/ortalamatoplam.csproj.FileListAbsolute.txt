@@ -1,0 +1,15 @@
+c:\Users\kdrok\Desktop\patikaodev-2\ortalamatoplam\bin\Debug\net9.0\ortalamatoplam.exe
+c:\Users\kdrok\Desktop\patikaodev-2\ortalamatoplam\bin\Debug\net9.0\ortalamatoplam.deps.json
+c:\Users\kdrok\Desktop\patikaodev-2\ortalamatoplam\bin\Debug\net9.0\ortalamatoplam.runtimeconfig.json
+c:\Users\kdrok\Desktop\patikaodev-2\ortalamatoplam\bin\Debug\net9.0\ortalamatoplam.dll
+c:\Users\kdrok\Desktop\patikaodev-2\ortalamatoplam\bin\Debug\net9.0\ortalamatoplam.pdb
+c:\Users\kdrok\Desktop\patikaodev-2\ortalamatoplam\obj\Debug\net9.0\ortalamatoplam.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kdrok\Desktop\patikaodev-2\ortalamatoplam\obj\Debug\net9.0\ortalamatoplam.AssemblyInfoInputs.cache
+c:\Users\kdrok\Desktop\patikaodev-2\ortalamatoplam\obj\Debug\net9.0\ortalamatoplam.AssemblyInfo.cs
+c:\Users\kdrok\Desktop\patikaodev-2\ortalamatoplam\obj\Debug\net9.0\ortalamatoplam.csproj.CoreCompileInputs.cache
+c:\Users\kdrok\Desktop\patikaodev-2\ortalamatoplam\obj\Debug\net9.0\ortalamatoplam.sourcelink.json
+c:\Users\kdrok\Desktop\patikaodev-2\ortalamatoplam\obj\Debug\net9.0\ortalamatoplam.dll
+c:\Users\kdrok\Desktop\patikaodev-2\ortalamatoplam\obj\Debug\net9.0\refint\ortalamatoplam.dll
+c:\Users\kdrok\Desktop\patikaodev-2\ortalamatoplam\obj\Debug\net9.0\ortalamatoplam.pdb
+c:\Users\kdrok\Desktop\patikaodev-2\ortalamatoplam\obj\Debug\net9.0\ortalamatoplam.genruntimeconfig.cache
+c:\Users\kdrok\Desktop\patikaodev-2\ortalamatoplam\obj\Debug\net9.0\ref\ortalamatoplam.dll

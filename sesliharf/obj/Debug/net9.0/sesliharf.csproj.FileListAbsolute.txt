@@ -1,0 +1,15 @@
+c:\Users\kdrok\Desktop\patikaodev-2\sesliharf\bin\Debug\net9.0\sesliharf.exe
+c:\Users\kdrok\Desktop\patikaodev-2\sesliharf\bin\Debug\net9.0\sesliharf.deps.json
+c:\Users\kdrok\Desktop\patikaodev-2\sesliharf\bin\Debug\net9.0\sesliharf.runtimeconfig.json
+c:\Users\kdrok\Desktop\patikaodev-2\sesliharf\bin\Debug\net9.0\sesliharf.dll
+c:\Users\kdrok\Desktop\patikaodev-2\sesliharf\bin\Debug\net9.0\sesliharf.pdb
+c:\Users\kdrok\Desktop\patikaodev-2\sesliharf\obj\Debug\net9.0\sesliharf.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kdrok\Desktop\patikaodev-2\sesliharf\obj\Debug\net9.0\sesliharf.AssemblyInfoInputs.cache
+c:\Users\kdrok\Desktop\patikaodev-2\sesliharf\obj\Debug\net9.0\sesliharf.AssemblyInfo.cs
+c:\Users\kdrok\Desktop\patikaodev-2\sesliharf\obj\Debug\net9.0\sesliharf.csproj.CoreCompileInputs.cache
+c:\Users\kdrok\Desktop\patikaodev-2\sesliharf\obj\Debug\net9.0\sesliharf.sourcelink.json
+c:\Users\kdrok\Desktop\patikaodev-2\sesliharf\obj\Debug\net9.0\sesliharf.dll
+c:\Users\kdrok\Desktop\patikaodev-2\sesliharf\obj\Debug\net9.0\refint\sesliharf.dll
+c:\Users\kdrok\Desktop\patikaodev-2\sesliharf\obj\Debug\net9.0\sesliharf.pdb
+c:\Users\kdrok\Desktop\patikaodev-2\sesliharf\obj\Debug\net9.0\sesliharf.genruntimeconfig.cache
+c:\Users\kdrok\Desktop\patikaodev-2\sesliharf\obj\Debug\net9.0\ref\sesliharf.dll

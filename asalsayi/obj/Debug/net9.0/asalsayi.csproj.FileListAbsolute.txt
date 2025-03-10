@@ -1,0 +1,15 @@
+c:\Users\kdrok\Desktop\patikaodev-2\asalsayi\bin\Debug\net9.0\asalsayi.exe
+c:\Users\kdrok\Desktop\patikaodev-2\asalsayi\bin\Debug\net9.0\asalsayi.deps.json
+c:\Users\kdrok\Desktop\patikaodev-2\asalsayi\bin\Debug\net9.0\asalsayi.runtimeconfig.json
+c:\Users\kdrok\Desktop\patikaodev-2\asalsayi\bin\Debug\net9.0\asalsayi.dll
+c:\Users\kdrok\Desktop\patikaodev-2\asalsayi\bin\Debug\net9.0\asalsayi.pdb
+c:\Users\kdrok\Desktop\patikaodev-2\asalsayi\obj\Debug\net9.0\asalsayi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kdrok\Desktop\patikaodev-2\asalsayi\obj\Debug\net9.0\asalsayi.AssemblyInfoInputs.cache
+c:\Users\kdrok\Desktop\patikaodev-2\asalsayi\obj\Debug\net9.0\asalsayi.AssemblyInfo.cs
+c:\Users\kdrok\Desktop\patikaodev-2\asalsayi\obj\Debug\net9.0\asalsayi.csproj.CoreCompileInputs.cache
+c:\Users\kdrok\Desktop\patikaodev-2\asalsayi\obj\Debug\net9.0\asalsayi.sourcelink.json
+c:\Users\kdrok\Desktop\patikaodev-2\asalsayi\obj\Debug\net9.0\asalsayi.dll
+c:\Users\kdrok\Desktop\patikaodev-2\asalsayi\obj\Debug\net9.0\refint\asalsayi.dll
+c:\Users\kdrok\Desktop\patikaodev-2\asalsayi\obj\Debug\net9.0\asalsayi.pdb
+c:\Users\kdrok\Desktop\patikaodev-2\asalsayi\obj\Debug\net9.0\asalsayi.genruntimeconfig.cache
+c:\Users\kdrok\Desktop\patikaodev-2\asalsayi\obj\Debug\net9.0\ref\asalsayi.dll
